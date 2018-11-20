@@ -1,4 +1,6 @@
 # DataExploration
+## Data set:
+`https://www.kaggle.com/lava18/google-play-store-apps`
 ## SENG 474 - Data Mining Project
 
 This is an exploratory project. You are encouraged to collect interesting data sets for an application domain that interests you. The more data you collect the better it is for finding interesting patterns. 
